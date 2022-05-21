@@ -1,0 +1,15 @@
+C:\Users\Coditas\Desktop\Properties and Encapsulation\bin\Debug\net6.0\Properties and Encapsulation.exe
+C:\Users\Coditas\Desktop\Properties and Encapsulation\bin\Debug\net6.0\Properties and Encapsulation.deps.json
+C:\Users\Coditas\Desktop\Properties and Encapsulation\bin\Debug\net6.0\Properties and Encapsulation.runtimeconfig.json
+C:\Users\Coditas\Desktop\Properties and Encapsulation\bin\Debug\net6.0\Properties and Encapsulation.dll
+C:\Users\Coditas\Desktop\Properties and Encapsulation\bin\Debug\net6.0\ref\Properties and Encapsulation.dll
+C:\Users\Coditas\Desktop\Properties and Encapsulation\bin\Debug\net6.0\Properties and Encapsulation.pdb
+C:\Users\Coditas\Desktop\Properties and Encapsulation\obj\Debug\net6.0\Properties and Encapsulation.csproj.AssemblyReference.cache
+C:\Users\Coditas\Desktop\Properties and Encapsulation\obj\Debug\net6.0\Properties and Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Coditas\Desktop\Properties and Encapsulation\obj\Debug\net6.0\Properties and Encapsulation.AssemblyInfoInputs.cache
+C:\Users\Coditas\Desktop\Properties and Encapsulation\obj\Debug\net6.0\Properties and Encapsulation.AssemblyInfo.cs
+C:\Users\Coditas\Desktop\Properties and Encapsulation\obj\Debug\net6.0\Properties and Encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\Coditas\Desktop\Properties and Encapsulation\obj\Debug\net6.0\Properties and Encapsulation.dll
+C:\Users\Coditas\Desktop\Properties and Encapsulation\obj\Debug\net6.0\ref\Properties and Encapsulation.dll
+C:\Users\Coditas\Desktop\Properties and Encapsulation\obj\Debug\net6.0\Properties and Encapsulation.pdb
+C:\Users\Coditas\Desktop\Properties and Encapsulation\obj\Debug\net6.0\Properties and Encapsulation.genruntimeconfig.cache

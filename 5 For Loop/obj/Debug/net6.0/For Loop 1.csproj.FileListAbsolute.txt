@@ -1,0 +1,15 @@
+C:\Users\Coditas\Desktop\For Loop 1\obj\Debug\net6.0\For Loop 1.csproj.AssemblyReference.cache
+C:\Users\Coditas\Desktop\For Loop 1\obj\Debug\net6.0\For Loop 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Coditas\Desktop\For Loop 1\obj\Debug\net6.0\For Loop 1.AssemblyInfoInputs.cache
+C:\Users\Coditas\Desktop\For Loop 1\obj\Debug\net6.0\For Loop 1.AssemblyInfo.cs
+C:\Users\Coditas\Desktop\For Loop 1\obj\Debug\net6.0\For Loop 1.csproj.CoreCompileInputs.cache
+C:\Users\Coditas\Desktop\For Loop 1\bin\Debug\net6.0\For Loop 1.exe
+C:\Users\Coditas\Desktop\For Loop 1\bin\Debug\net6.0\For Loop 1.deps.json
+C:\Users\Coditas\Desktop\For Loop 1\bin\Debug\net6.0\For Loop 1.runtimeconfig.json
+C:\Users\Coditas\Desktop\For Loop 1\bin\Debug\net6.0\For Loop 1.dll
+C:\Users\Coditas\Desktop\For Loop 1\bin\Debug\net6.0\ref\For Loop 1.dll
+C:\Users\Coditas\Desktop\For Loop 1\bin\Debug\net6.0\For Loop 1.pdb
+C:\Users\Coditas\Desktop\For Loop 1\obj\Debug\net6.0\For Loop 1.dll
+C:\Users\Coditas\Desktop\For Loop 1\obj\Debug\net6.0\ref\For Loop 1.dll
+C:\Users\Coditas\Desktop\For Loop 1\obj\Debug\net6.0\For Loop 1.pdb
+C:\Users\Coditas\Desktop\For Loop 1\obj\Debug\net6.0\For Loop 1.genruntimeconfig.cache

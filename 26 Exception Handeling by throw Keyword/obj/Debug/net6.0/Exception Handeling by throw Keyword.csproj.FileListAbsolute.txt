@@ -1,0 +1,30 @@
+C:\Users\Coditas\Desktop\Exception Handeling by throw Keyword\bin\Debug\net6.0\Exception Handeling by throw Keyword.exe
+C:\Users\Coditas\Desktop\Exception Handeling by throw Keyword\bin\Debug\net6.0\Exception Handeling by throw Keyword.deps.json
+C:\Users\Coditas\Desktop\Exception Handeling by throw Keyword\bin\Debug\net6.0\Exception Handeling by throw Keyword.runtimeconfig.json
+C:\Users\Coditas\Desktop\Exception Handeling by throw Keyword\bin\Debug\net6.0\Exception Handeling by throw Keyword.dll
+C:\Users\Coditas\Desktop\Exception Handeling by throw Keyword\bin\Debug\net6.0\ref\Exception Handeling by throw Keyword.dll
+C:\Users\Coditas\Desktop\Exception Handeling by throw Keyword\bin\Debug\net6.0\Exception Handeling by throw Keyword.pdb
+C:\Users\Coditas\Desktop\Exception Handeling by throw Keyword\obj\Debug\net6.0\Exception Handeling by throw Keyword.csproj.AssemblyReference.cache
+C:\Users\Coditas\Desktop\Exception Handeling by throw Keyword\obj\Debug\net6.0\Exception Handeling by throw Keyword.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Coditas\Desktop\Exception Handeling by throw Keyword\obj\Debug\net6.0\Exception Handeling by throw Keyword.AssemblyInfoInputs.cache
+C:\Users\Coditas\Desktop\Exception Handeling by throw Keyword\obj\Debug\net6.0\Exception Handeling by throw Keyword.AssemblyInfo.cs
+C:\Users\Coditas\Desktop\Exception Handeling by throw Keyword\obj\Debug\net6.0\Exception Handeling by throw Keyword.csproj.CoreCompileInputs.cache
+C:\Users\Coditas\Desktop\Exception Handeling by throw Keyword\obj\Debug\net6.0\Exception Handeling by throw Keyword.dll
+C:\Users\Coditas\Desktop\Exception Handeling by throw Keyword\obj\Debug\net6.0\ref\Exception Handeling by throw Keyword.dll
+C:\Users\Coditas\Desktop\Exception Handeling by throw Keyword\obj\Debug\net6.0\Exception Handeling by throw Keyword.pdb
+C:\Users\Coditas\Desktop\Exception Handeling by throw Keyword\obj\Debug\net6.0\Exception Handeling by throw Keyword.genruntimeconfig.cache
+C:\Users\Coditas\Desktop\C# All Code\Exception Handeling by throw Keyword\bin\Debug\net6.0\Exception Handeling by throw Keyword.exe
+C:\Users\Coditas\Desktop\C# All Code\Exception Handeling by throw Keyword\bin\Debug\net6.0\Exception Handeling by throw Keyword.deps.json
+C:\Users\Coditas\Desktop\C# All Code\Exception Handeling by throw Keyword\bin\Debug\net6.0\Exception Handeling by throw Keyword.runtimeconfig.json
+C:\Users\Coditas\Desktop\C# All Code\Exception Handeling by throw Keyword\bin\Debug\net6.0\Exception Handeling by throw Keyword.dll
+C:\Users\Coditas\Desktop\C# All Code\Exception Handeling by throw Keyword\bin\Debug\net6.0\ref\Exception Handeling by throw Keyword.dll
+C:\Users\Coditas\Desktop\C# All Code\Exception Handeling by throw Keyword\bin\Debug\net6.0\Exception Handeling by throw Keyword.pdb
+C:\Users\Coditas\Desktop\C# All Code\Exception Handeling by throw Keyword\obj\Debug\net6.0\Exception Handeling by throw Keyword.csproj.AssemblyReference.cache
+C:\Users\Coditas\Desktop\C# All Code\Exception Handeling by throw Keyword\obj\Debug\net6.0\Exception Handeling by throw Keyword.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Coditas\Desktop\C# All Code\Exception Handeling by throw Keyword\obj\Debug\net6.0\Exception Handeling by throw Keyword.AssemblyInfoInputs.cache
+C:\Users\Coditas\Desktop\C# All Code\Exception Handeling by throw Keyword\obj\Debug\net6.0\Exception Handeling by throw Keyword.AssemblyInfo.cs
+C:\Users\Coditas\Desktop\C# All Code\Exception Handeling by throw Keyword\obj\Debug\net6.0\Exception Handeling by throw Keyword.csproj.CoreCompileInputs.cache
+C:\Users\Coditas\Desktop\C# All Code\Exception Handeling by throw Keyword\obj\Debug\net6.0\Exception Handeling by throw Keyword.dll
+C:\Users\Coditas\Desktop\C# All Code\Exception Handeling by throw Keyword\obj\Debug\net6.0\ref\Exception Handeling by throw Keyword.dll
+C:\Users\Coditas\Desktop\C# All Code\Exception Handeling by throw Keyword\obj\Debug\net6.0\Exception Handeling by throw Keyword.pdb
+C:\Users\Coditas\Desktop\C# All Code\Exception Handeling by throw Keyword\obj\Debug\net6.0\Exception Handeling by throw Keyword.genruntimeconfig.cache

@@ -1,0 +1,30 @@
+C:\Users\Coditas\Desktop\Lambda Expression\bin\Debug\net6.0\Lambda Expression.exe
+C:\Users\Coditas\Desktop\Lambda Expression\bin\Debug\net6.0\Lambda Expression.deps.json
+C:\Users\Coditas\Desktop\Lambda Expression\bin\Debug\net6.0\Lambda Expression.runtimeconfig.json
+C:\Users\Coditas\Desktop\Lambda Expression\bin\Debug\net6.0\Lambda Expression.dll
+C:\Users\Coditas\Desktop\Lambda Expression\bin\Debug\net6.0\ref\Lambda Expression.dll
+C:\Users\Coditas\Desktop\Lambda Expression\bin\Debug\net6.0\Lambda Expression.pdb
+C:\Users\Coditas\Desktop\Lambda Expression\obj\Debug\net6.0\Lambda Expression.csproj.AssemblyReference.cache
+C:\Users\Coditas\Desktop\Lambda Expression\obj\Debug\net6.0\Lambda Expression.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Coditas\Desktop\Lambda Expression\obj\Debug\net6.0\Lambda Expression.AssemblyInfoInputs.cache
+C:\Users\Coditas\Desktop\Lambda Expression\obj\Debug\net6.0\Lambda Expression.AssemblyInfo.cs
+C:\Users\Coditas\Desktop\Lambda Expression\obj\Debug\net6.0\Lambda Expression.csproj.CoreCompileInputs.cache
+C:\Users\Coditas\Desktop\Lambda Expression\obj\Debug\net6.0\Lambda Expression.dll
+C:\Users\Coditas\Desktop\Lambda Expression\obj\Debug\net6.0\ref\Lambda Expression.dll
+C:\Users\Coditas\Desktop\Lambda Expression\obj\Debug\net6.0\Lambda Expression.pdb
+C:\Users\Coditas\Desktop\Lambda Expression\obj\Debug\net6.0\Lambda Expression.genruntimeconfig.cache
+C:\Users\Coditas\Desktop\C# All Code\Lambda Expression\bin\Debug\net6.0\Lambda Expression.exe
+C:\Users\Coditas\Desktop\C# All Code\Lambda Expression\bin\Debug\net6.0\Lambda Expression.deps.json
+C:\Users\Coditas\Desktop\C# All Code\Lambda Expression\bin\Debug\net6.0\Lambda Expression.runtimeconfig.json
+C:\Users\Coditas\Desktop\C# All Code\Lambda Expression\bin\Debug\net6.0\Lambda Expression.dll
+C:\Users\Coditas\Desktop\C# All Code\Lambda Expression\bin\Debug\net6.0\Lambda Expression.pdb
+C:\Users\Coditas\Desktop\C# All Code\Lambda Expression\obj\Debug\net6.0\Lambda Expression.csproj.AssemblyReference.cache
+C:\Users\Coditas\Desktop\C# All Code\Lambda Expression\obj\Debug\net6.0\Lambda Expression.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Coditas\Desktop\C# All Code\Lambda Expression\obj\Debug\net6.0\Lambda Expression.AssemblyInfoInputs.cache
+C:\Users\Coditas\Desktop\C# All Code\Lambda Expression\obj\Debug\net6.0\Lambda Expression.AssemblyInfo.cs
+C:\Users\Coditas\Desktop\C# All Code\Lambda Expression\obj\Debug\net6.0\Lambda Expression.csproj.CoreCompileInputs.cache
+C:\Users\Coditas\Desktop\C# All Code\Lambda Expression\obj\Debug\net6.0\Lambda Expression.dll
+C:\Users\Coditas\Desktop\C# All Code\Lambda Expression\obj\Debug\net6.0\refint\Lambda Expression.dll
+C:\Users\Coditas\Desktop\C# All Code\Lambda Expression\obj\Debug\net6.0\Lambda Expression.pdb
+C:\Users\Coditas\Desktop\C# All Code\Lambda Expression\obj\Debug\net6.0\Lambda Expression.genruntimeconfig.cache
+C:\Users\Coditas\Desktop\C# All Code\Lambda Expression\obj\Debug\net6.0\ref\Lambda Expression.dll

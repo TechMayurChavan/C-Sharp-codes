@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "82mlcTeeVcs4knNvrglNpwQOZF1VPMZKiQzHtdaRKlHrqF1fBOiO/GkJ8PjVmx1ibXElVyBiewfzksdd0+rfaA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Coditas\\Desktop\\C# All Code\\32 Generic_Collection_Dictionary\\Generic_Collection_Dictionary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Coditas\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

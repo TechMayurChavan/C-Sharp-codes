@@ -1,0 +1,30 @@
+C:\Users\Coditas\Desktop\polymophism\bin\Debug\net6.0\polymophism.exe
+C:\Users\Coditas\Desktop\polymophism\bin\Debug\net6.0\polymophism.deps.json
+C:\Users\Coditas\Desktop\polymophism\bin\Debug\net6.0\polymophism.runtimeconfig.json
+C:\Users\Coditas\Desktop\polymophism\bin\Debug\net6.0\polymophism.dll
+C:\Users\Coditas\Desktop\polymophism\bin\Debug\net6.0\ref\polymophism.dll
+C:\Users\Coditas\Desktop\polymophism\bin\Debug\net6.0\polymophism.pdb
+C:\Users\Coditas\Desktop\polymophism\obj\Debug\net6.0\polymophism.csproj.AssemblyReference.cache
+C:\Users\Coditas\Desktop\polymophism\obj\Debug\net6.0\polymophism.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Coditas\Desktop\polymophism\obj\Debug\net6.0\polymophism.AssemblyInfoInputs.cache
+C:\Users\Coditas\Desktop\polymophism\obj\Debug\net6.0\polymophism.AssemblyInfo.cs
+C:\Users\Coditas\Desktop\polymophism\obj\Debug\net6.0\polymophism.csproj.CoreCompileInputs.cache
+C:\Users\Coditas\Desktop\polymophism\obj\Debug\net6.0\polymophism.dll
+C:\Users\Coditas\Desktop\polymophism\obj\Debug\net6.0\ref\polymophism.dll
+C:\Users\Coditas\Desktop\polymophism\obj\Debug\net6.0\polymophism.pdb
+C:\Users\Coditas\Desktop\polymophism\obj\Debug\net6.0\polymophism.genruntimeconfig.cache
+C:\Users\Coditas\Desktop\C# All Code\16 polymophism\bin\Debug\net6.0\polymophism.exe
+C:\Users\Coditas\Desktop\C# All Code\16 polymophism\bin\Debug\net6.0\polymophism.deps.json
+C:\Users\Coditas\Desktop\C# All Code\16 polymophism\bin\Debug\net6.0\polymophism.runtimeconfig.json
+C:\Users\Coditas\Desktop\C# All Code\16 polymophism\bin\Debug\net6.0\polymophism.dll
+C:\Users\Coditas\Desktop\C# All Code\16 polymophism\bin\Debug\net6.0\polymophism.pdb
+C:\Users\Coditas\Desktop\C# All Code\16 polymophism\obj\Debug\net6.0\polymophism.csproj.AssemblyReference.cache
+C:\Users\Coditas\Desktop\C# All Code\16 polymophism\obj\Debug\net6.0\polymophism.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Coditas\Desktop\C# All Code\16 polymophism\obj\Debug\net6.0\polymophism.AssemblyInfoInputs.cache
+C:\Users\Coditas\Desktop\C# All Code\16 polymophism\obj\Debug\net6.0\polymophism.AssemblyInfo.cs
+C:\Users\Coditas\Desktop\C# All Code\16 polymophism\obj\Debug\net6.0\polymophism.csproj.CoreCompileInputs.cache
+C:\Users\Coditas\Desktop\C# All Code\16 polymophism\obj\Debug\net6.0\polymophism.dll
+C:\Users\Coditas\Desktop\C# All Code\16 polymophism\obj\Debug\net6.0\refint\polymophism.dll
+C:\Users\Coditas\Desktop\C# All Code\16 polymophism\obj\Debug\net6.0\polymophism.pdb
+C:\Users\Coditas\Desktop\C# All Code\16 polymophism\obj\Debug\net6.0\polymophism.genruntimeconfig.cache
+C:\Users\Coditas\Desktop\C# All Code\16 polymophism\obj\Debug\net6.0\ref\polymophism.dll

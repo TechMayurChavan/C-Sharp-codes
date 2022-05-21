@@ -1,0 +1,15 @@
+C:\Users\Coditas\Desktop\Var and Dynamic Keyword\bin\Debug\net6.0\Var and Dynamic Keyword.exe
+C:\Users\Coditas\Desktop\Var and Dynamic Keyword\bin\Debug\net6.0\Var and Dynamic Keyword.deps.json
+C:\Users\Coditas\Desktop\Var and Dynamic Keyword\bin\Debug\net6.0\Var and Dynamic Keyword.runtimeconfig.json
+C:\Users\Coditas\Desktop\Var and Dynamic Keyword\bin\Debug\net6.0\Var and Dynamic Keyword.dll
+C:\Users\Coditas\Desktop\Var and Dynamic Keyword\bin\Debug\net6.0\ref\Var and Dynamic Keyword.dll
+C:\Users\Coditas\Desktop\Var and Dynamic Keyword\bin\Debug\net6.0\Var and Dynamic Keyword.pdb
+C:\Users\Coditas\Desktop\Var and Dynamic Keyword\obj\Debug\net6.0\Var and Dynamic Keyword.csproj.AssemblyReference.cache
+C:\Users\Coditas\Desktop\Var and Dynamic Keyword\obj\Debug\net6.0\Var and Dynamic Keyword.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Coditas\Desktop\Var and Dynamic Keyword\obj\Debug\net6.0\Var and Dynamic Keyword.AssemblyInfoInputs.cache
+C:\Users\Coditas\Desktop\Var and Dynamic Keyword\obj\Debug\net6.0\Var and Dynamic Keyword.AssemblyInfo.cs
+C:\Users\Coditas\Desktop\Var and Dynamic Keyword\obj\Debug\net6.0\Var and Dynamic Keyword.csproj.CoreCompileInputs.cache
+C:\Users\Coditas\Desktop\Var and Dynamic Keyword\obj\Debug\net6.0\Var and Dynamic Keyword.dll
+C:\Users\Coditas\Desktop\Var and Dynamic Keyword\obj\Debug\net6.0\ref\Var and Dynamic Keyword.dll
+C:\Users\Coditas\Desktop\Var and Dynamic Keyword\obj\Debug\net6.0\Var and Dynamic Keyword.pdb
+C:\Users\Coditas\Desktop\Var and Dynamic Keyword\obj\Debug\net6.0\Var and Dynamic Keyword.genruntimeconfig.cache

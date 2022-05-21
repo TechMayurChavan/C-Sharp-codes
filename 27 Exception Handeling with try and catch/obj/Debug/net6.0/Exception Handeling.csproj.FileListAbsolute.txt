@@ -1,0 +1,30 @@
+C:\Users\Coditas\Desktop\Exception Handeling\bin\Debug\net6.0\Exception Handeling.exe
+C:\Users\Coditas\Desktop\Exception Handeling\bin\Debug\net6.0\Exception Handeling.deps.json
+C:\Users\Coditas\Desktop\Exception Handeling\bin\Debug\net6.0\Exception Handeling.runtimeconfig.json
+C:\Users\Coditas\Desktop\Exception Handeling\bin\Debug\net6.0\Exception Handeling.dll
+C:\Users\Coditas\Desktop\Exception Handeling\bin\Debug\net6.0\ref\Exception Handeling.dll
+C:\Users\Coditas\Desktop\Exception Handeling\bin\Debug\net6.0\Exception Handeling.pdb
+C:\Users\Coditas\Desktop\Exception Handeling\obj\Debug\net6.0\Exception Handeling.csproj.AssemblyReference.cache
+C:\Users\Coditas\Desktop\Exception Handeling\obj\Debug\net6.0\Exception Handeling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Coditas\Desktop\Exception Handeling\obj\Debug\net6.0\Exception Handeling.AssemblyInfoInputs.cache
+C:\Users\Coditas\Desktop\Exception Handeling\obj\Debug\net6.0\Exception Handeling.AssemblyInfo.cs
+C:\Users\Coditas\Desktop\Exception Handeling\obj\Debug\net6.0\Exception Handeling.csproj.CoreCompileInputs.cache
+C:\Users\Coditas\Desktop\Exception Handeling\obj\Debug\net6.0\Exception Handeling.dll
+C:\Users\Coditas\Desktop\Exception Handeling\obj\Debug\net6.0\ref\Exception Handeling.dll
+C:\Users\Coditas\Desktop\Exception Handeling\obj\Debug\net6.0\Exception Handeling.pdb
+C:\Users\Coditas\Desktop\Exception Handeling\obj\Debug\net6.0\Exception Handeling.genruntimeconfig.cache
+C:\Users\Coditas\Desktop\C# All Code\Exception Handeling with try and catch\obj\Debug\net6.0\Exception Handeling.csproj.AssemblyReference.cache
+C:\Users\Coditas\Desktop\C# All Code\Exception Handeling with try and catch\obj\Debug\net6.0\Exception Handeling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Coditas\Desktop\C# All Code\Exception Handeling with try and catch\obj\Debug\net6.0\Exception Handeling.AssemblyInfoInputs.cache
+C:\Users\Coditas\Desktop\C# All Code\Exception Handeling with try and catch\obj\Debug\net6.0\Exception Handeling.AssemblyInfo.cs
+C:\Users\Coditas\Desktop\C# All Code\Exception Handeling with try and catch\obj\Debug\net6.0\Exception Handeling.csproj.CoreCompileInputs.cache
+C:\Users\Coditas\Desktop\C# All Code\Exception Handeling with try and catch\obj\Debug\net6.0\Exception Handeling.dll
+C:\Users\Coditas\Desktop\C# All Code\Exception Handeling with try and catch\obj\Debug\net6.0\ref\Exception Handeling.dll
+C:\Users\Coditas\Desktop\C# All Code\Exception Handeling with try and catch\obj\Debug\net6.0\Exception Handeling.pdb
+C:\Users\Coditas\Desktop\C# All Code\Exception Handeling with try and catch\bin\Debug\net6.0\Exception Handeling.exe
+C:\Users\Coditas\Desktop\C# All Code\Exception Handeling with try and catch\bin\Debug\net6.0\Exception Handeling.deps.json
+C:\Users\Coditas\Desktop\C# All Code\Exception Handeling with try and catch\bin\Debug\net6.0\Exception Handeling.runtimeconfig.json
+C:\Users\Coditas\Desktop\C# All Code\Exception Handeling with try and catch\bin\Debug\net6.0\Exception Handeling.dll
+C:\Users\Coditas\Desktop\C# All Code\Exception Handeling with try and catch\bin\Debug\net6.0\ref\Exception Handeling.dll
+C:\Users\Coditas\Desktop\C# All Code\Exception Handeling with try and catch\bin\Debug\net6.0\Exception Handeling.pdb
+C:\Users\Coditas\Desktop\C# All Code\Exception Handeling with try and catch\obj\Debug\net6.0\Exception Handeling.genruntimeconfig.cache

@@ -1,0 +1,30 @@
+C:\Users\Coditas\Desktop\Explecit interface implementation\bin\Debug\net6.0\Explecit interface implementation.exe
+C:\Users\Coditas\Desktop\Explecit interface implementation\bin\Debug\net6.0\Explecit interface implementation.deps.json
+C:\Users\Coditas\Desktop\Explecit interface implementation\bin\Debug\net6.0\Explecit interface implementation.runtimeconfig.json
+C:\Users\Coditas\Desktop\Explecit interface implementation\bin\Debug\net6.0\Explecit interface implementation.dll
+C:\Users\Coditas\Desktop\Explecit interface implementation\bin\Debug\net6.0\ref\Explecit interface implementation.dll
+C:\Users\Coditas\Desktop\Explecit interface implementation\bin\Debug\net6.0\Explecit interface implementation.pdb
+C:\Users\Coditas\Desktop\Explecit interface implementation\obj\Debug\net6.0\Explecit interface implementation.csproj.AssemblyReference.cache
+C:\Users\Coditas\Desktop\Explecit interface implementation\obj\Debug\net6.0\Explecit interface implementation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Coditas\Desktop\Explecit interface implementation\obj\Debug\net6.0\Explecit interface implementation.AssemblyInfoInputs.cache
+C:\Users\Coditas\Desktop\Explecit interface implementation\obj\Debug\net6.0\Explecit interface implementation.AssemblyInfo.cs
+C:\Users\Coditas\Desktop\Explecit interface implementation\obj\Debug\net6.0\Explecit interface implementation.csproj.CoreCompileInputs.cache
+C:\Users\Coditas\Desktop\Explecit interface implementation\obj\Debug\net6.0\Explecit interface implementation.dll
+C:\Users\Coditas\Desktop\Explecit interface implementation\obj\Debug\net6.0\ref\Explecit interface implementation.dll
+C:\Users\Coditas\Desktop\Explecit interface implementation\obj\Debug\net6.0\Explecit interface implementation.pdb
+C:\Users\Coditas\Desktop\Explecit interface implementation\obj\Debug\net6.0\Explecit interface implementation.genruntimeconfig.cache
+C:\Users\Coditas\Desktop\C# All Code\Explecit interface implementation\bin\Debug\net6.0\Explecit interface implementation.exe
+C:\Users\Coditas\Desktop\C# All Code\Explecit interface implementation\bin\Debug\net6.0\Explecit interface implementation.deps.json
+C:\Users\Coditas\Desktop\C# All Code\Explecit interface implementation\bin\Debug\net6.0\Explecit interface implementation.runtimeconfig.json
+C:\Users\Coditas\Desktop\C# All Code\Explecit interface implementation\bin\Debug\net6.0\Explecit interface implementation.dll
+C:\Users\Coditas\Desktop\C# All Code\Explecit interface implementation\bin\Debug\net6.0\Explecit interface implementation.pdb
+C:\Users\Coditas\Desktop\C# All Code\Explecit interface implementation\obj\Debug\net6.0\Explecit interface implementation.csproj.AssemblyReference.cache
+C:\Users\Coditas\Desktop\C# All Code\Explecit interface implementation\obj\Debug\net6.0\Explecit interface implementation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Coditas\Desktop\C# All Code\Explecit interface implementation\obj\Debug\net6.0\Explecit interface implementation.AssemblyInfoInputs.cache
+C:\Users\Coditas\Desktop\C# All Code\Explecit interface implementation\obj\Debug\net6.0\Explecit interface implementation.AssemblyInfo.cs
+C:\Users\Coditas\Desktop\C# All Code\Explecit interface implementation\obj\Debug\net6.0\Explecit interface implementation.csproj.CoreCompileInputs.cache
+C:\Users\Coditas\Desktop\C# All Code\Explecit interface implementation\obj\Debug\net6.0\Explecit interface implementation.dll
+C:\Users\Coditas\Desktop\C# All Code\Explecit interface implementation\obj\Debug\net6.0\refint\Explecit interface implementation.dll
+C:\Users\Coditas\Desktop\C# All Code\Explecit interface implementation\obj\Debug\net6.0\Explecit interface implementation.pdb
+C:\Users\Coditas\Desktop\C# All Code\Explecit interface implementation\obj\Debug\net6.0\Explecit interface implementation.genruntimeconfig.cache
+C:\Users\Coditas\Desktop\C# All Code\Explecit interface implementation\obj\Debug\net6.0\ref\Explecit interface implementation.dll

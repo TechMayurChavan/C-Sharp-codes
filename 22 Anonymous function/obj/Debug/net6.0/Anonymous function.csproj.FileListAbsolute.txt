@@ -1,0 +1,45 @@
+C:\Users\Coditas\Desktop\Anonymous function\bin\Debug\net6.0\Anonymous function.exe
+C:\Users\Coditas\Desktop\Anonymous function\bin\Debug\net6.0\Anonymous function.deps.json
+C:\Users\Coditas\Desktop\Anonymous function\bin\Debug\net6.0\Anonymous function.runtimeconfig.json
+C:\Users\Coditas\Desktop\Anonymous function\bin\Debug\net6.0\Anonymous function.dll
+C:\Users\Coditas\Desktop\Anonymous function\bin\Debug\net6.0\ref\Anonymous function.dll
+C:\Users\Coditas\Desktop\Anonymous function\bin\Debug\net6.0\Anonymous function.pdb
+C:\Users\Coditas\Desktop\Anonymous function\obj\Debug\net6.0\Anonymous function.csproj.AssemblyReference.cache
+C:\Users\Coditas\Desktop\Anonymous function\obj\Debug\net6.0\Anonymous function.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Coditas\Desktop\Anonymous function\obj\Debug\net6.0\Anonymous function.AssemblyInfoInputs.cache
+C:\Users\Coditas\Desktop\Anonymous function\obj\Debug\net6.0\Anonymous function.AssemblyInfo.cs
+C:\Users\Coditas\Desktop\Anonymous function\obj\Debug\net6.0\Anonymous function.csproj.CoreCompileInputs.cache
+C:\Users\Coditas\Desktop\Anonymous function\obj\Debug\net6.0\Anonymous function.dll
+C:\Users\Coditas\Desktop\Anonymous function\obj\Debug\net6.0\ref\Anonymous function.dll
+C:\Users\Coditas\Desktop\Anonymous function\obj\Debug\net6.0\Anonymous function.pdb
+C:\Users\Coditas\Desktop\Anonymous function\obj\Debug\net6.0\Anonymous function.genruntimeconfig.cache
+C:\Users\Coditas\Desktop\C# All Code\Anonymous function\bin\Debug\net6.0\Anonymous function.exe
+C:\Users\Coditas\Desktop\C# All Code\Anonymous function\bin\Debug\net6.0\Anonymous function.deps.json
+C:\Users\Coditas\Desktop\C# All Code\Anonymous function\bin\Debug\net6.0\Anonymous function.runtimeconfig.json
+C:\Users\Coditas\Desktop\C# All Code\Anonymous function\bin\Debug\net6.0\Anonymous function.dll
+C:\Users\Coditas\Desktop\C# All Code\Anonymous function\bin\Debug\net6.0\Anonymous function.pdb
+C:\Users\Coditas\Desktop\C# All Code\Anonymous function\obj\Debug\net6.0\Anonymous function.csproj.AssemblyReference.cache
+C:\Users\Coditas\Desktop\C# All Code\Anonymous function\obj\Debug\net6.0\Anonymous function.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Coditas\Desktop\C# All Code\Anonymous function\obj\Debug\net6.0\Anonymous function.AssemblyInfoInputs.cache
+C:\Users\Coditas\Desktop\C# All Code\Anonymous function\obj\Debug\net6.0\Anonymous function.AssemblyInfo.cs
+C:\Users\Coditas\Desktop\C# All Code\Anonymous function\obj\Debug\net6.0\Anonymous function.csproj.CoreCompileInputs.cache
+C:\Users\Coditas\Desktop\C# All Code\Anonymous function\obj\Debug\net6.0\Anonymous function.dll
+C:\Users\Coditas\Desktop\C# All Code\Anonymous function\obj\Debug\net6.0\refint\Anonymous function.dll
+C:\Users\Coditas\Desktop\C# All Code\Anonymous function\obj\Debug\net6.0\Anonymous function.pdb
+C:\Users\Coditas\Desktop\C# All Code\Anonymous function\obj\Debug\net6.0\Anonymous function.genruntimeconfig.cache
+C:\Users\Coditas\Desktop\C# All Code\Anonymous function\obj\Debug\net6.0\ref\Anonymous function.dll
+C:\Users\Coditas\Desktop\C# All Code\22 Anonymous function\bin\Debug\net6.0\Anonymous function.exe
+C:\Users\Coditas\Desktop\C# All Code\22 Anonymous function\bin\Debug\net6.0\Anonymous function.deps.json
+C:\Users\Coditas\Desktop\C# All Code\22 Anonymous function\bin\Debug\net6.0\Anonymous function.runtimeconfig.json
+C:\Users\Coditas\Desktop\C# All Code\22 Anonymous function\bin\Debug\net6.0\Anonymous function.dll
+C:\Users\Coditas\Desktop\C# All Code\22 Anonymous function\bin\Debug\net6.0\Anonymous function.pdb
+C:\Users\Coditas\Desktop\C# All Code\22 Anonymous function\obj\Debug\net6.0\Anonymous function.csproj.AssemblyReference.cache
+C:\Users\Coditas\Desktop\C# All Code\22 Anonymous function\obj\Debug\net6.0\Anonymous function.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Coditas\Desktop\C# All Code\22 Anonymous function\obj\Debug\net6.0\Anonymous function.AssemblyInfoInputs.cache
+C:\Users\Coditas\Desktop\C# All Code\22 Anonymous function\obj\Debug\net6.0\Anonymous function.AssemblyInfo.cs
+C:\Users\Coditas\Desktop\C# All Code\22 Anonymous function\obj\Debug\net6.0\Anonymous function.csproj.CoreCompileInputs.cache
+C:\Users\Coditas\Desktop\C# All Code\22 Anonymous function\obj\Debug\net6.0\Anonymous function.dll
+C:\Users\Coditas\Desktop\C# All Code\22 Anonymous function\obj\Debug\net6.0\refint\Anonymous function.dll
+C:\Users\Coditas\Desktop\C# All Code\22 Anonymous function\obj\Debug\net6.0\Anonymous function.pdb
+C:\Users\Coditas\Desktop\C# All Code\22 Anonymous function\obj\Debug\net6.0\Anonymous function.genruntimeconfig.cache
+C:\Users\Coditas\Desktop\C# All Code\22 Anonymous function\obj\Debug\net6.0\ref\Anonymous function.dll

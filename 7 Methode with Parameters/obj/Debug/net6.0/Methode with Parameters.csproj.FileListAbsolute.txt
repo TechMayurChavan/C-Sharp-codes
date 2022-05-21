@@ -1,0 +1,15 @@
+C:\Users\Coditas\Desktop\Methode with Parameters\bin\Debug\net6.0\Methode with Parameters.exe
+C:\Users\Coditas\Desktop\Methode with Parameters\bin\Debug\net6.0\Methode with Parameters.deps.json
+C:\Users\Coditas\Desktop\Methode with Parameters\bin\Debug\net6.0\Methode with Parameters.runtimeconfig.json
+C:\Users\Coditas\Desktop\Methode with Parameters\bin\Debug\net6.0\Methode with Parameters.dll
+C:\Users\Coditas\Desktop\Methode with Parameters\bin\Debug\net6.0\ref\Methode with Parameters.dll
+C:\Users\Coditas\Desktop\Methode with Parameters\bin\Debug\net6.0\Methode with Parameters.pdb
+C:\Users\Coditas\Desktop\Methode with Parameters\obj\Debug\net6.0\Methode with Parameters.csproj.AssemblyReference.cache
+C:\Users\Coditas\Desktop\Methode with Parameters\obj\Debug\net6.0\Methode with Parameters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Coditas\Desktop\Methode with Parameters\obj\Debug\net6.0\Methode with Parameters.AssemblyInfoInputs.cache
+C:\Users\Coditas\Desktop\Methode with Parameters\obj\Debug\net6.0\Methode with Parameters.AssemblyInfo.cs
+C:\Users\Coditas\Desktop\Methode with Parameters\obj\Debug\net6.0\Methode with Parameters.csproj.CoreCompileInputs.cache
+C:\Users\Coditas\Desktop\Methode with Parameters\obj\Debug\net6.0\Methode with Parameters.dll
+C:\Users\Coditas\Desktop\Methode with Parameters\obj\Debug\net6.0\ref\Methode with Parameters.dll
+C:\Users\Coditas\Desktop\Methode with Parameters\obj\Debug\net6.0\Methode with Parameters.pdb
+C:\Users\Coditas\Desktop\Methode with Parameters\obj\Debug\net6.0\Methode with Parameters.genruntimeconfig.cache

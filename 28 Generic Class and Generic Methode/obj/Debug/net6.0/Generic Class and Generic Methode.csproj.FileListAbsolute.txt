@@ -1,0 +1,15 @@
+C:\Users\Coditas\Desktop\Generic Class and Generic Methode\obj\Debug\net6.0\Generic Class and Generic Methode.csproj.AssemblyReference.cache
+C:\Users\Coditas\Desktop\Generic Class and Generic Methode\obj\Debug\net6.0\Generic Class and Generic Methode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Coditas\Desktop\Generic Class and Generic Methode\obj\Debug\net6.0\Generic Class and Generic Methode.AssemblyInfoInputs.cache
+C:\Users\Coditas\Desktop\Generic Class and Generic Methode\obj\Debug\net6.0\Generic Class and Generic Methode.AssemblyInfo.cs
+C:\Users\Coditas\Desktop\Generic Class and Generic Methode\obj\Debug\net6.0\Generic Class and Generic Methode.csproj.CoreCompileInputs.cache
+C:\Users\Coditas\Desktop\Generic Class and Generic Methode\bin\Debug\net6.0\Generic Class and Generic Methode.exe
+C:\Users\Coditas\Desktop\Generic Class and Generic Methode\bin\Debug\net6.0\Generic Class and Generic Methode.deps.json
+C:\Users\Coditas\Desktop\Generic Class and Generic Methode\bin\Debug\net6.0\Generic Class and Generic Methode.runtimeconfig.json
+C:\Users\Coditas\Desktop\Generic Class and Generic Methode\bin\Debug\net6.0\Generic Class and Generic Methode.dll
+C:\Users\Coditas\Desktop\Generic Class and Generic Methode\bin\Debug\net6.0\ref\Generic Class and Generic Methode.dll
+C:\Users\Coditas\Desktop\Generic Class and Generic Methode\bin\Debug\net6.0\Generic Class and Generic Methode.pdb
+C:\Users\Coditas\Desktop\Generic Class and Generic Methode\obj\Debug\net6.0\Generic Class and Generic Methode.dll
+C:\Users\Coditas\Desktop\Generic Class and Generic Methode\obj\Debug\net6.0\ref\Generic Class and Generic Methode.dll
+C:\Users\Coditas\Desktop\Generic Class and Generic Methode\obj\Debug\net6.0\Generic Class and Generic Methode.pdb
+C:\Users\Coditas\Desktop\Generic Class and Generic Methode\obj\Debug\net6.0\Generic Class and Generic Methode.genruntimeconfig.cache

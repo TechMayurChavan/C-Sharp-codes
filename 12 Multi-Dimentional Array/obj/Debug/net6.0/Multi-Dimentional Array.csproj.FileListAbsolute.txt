@@ -1,0 +1,15 @@
+C:\Users\Coditas\Desktop\Multi-Dimentional Array\bin\Debug\net6.0\Multi-Dimentional Array.exe
+C:\Users\Coditas\Desktop\Multi-Dimentional Array\bin\Debug\net6.0\Multi-Dimentional Array.deps.json
+C:\Users\Coditas\Desktop\Multi-Dimentional Array\bin\Debug\net6.0\Multi-Dimentional Array.runtimeconfig.json
+C:\Users\Coditas\Desktop\Multi-Dimentional Array\bin\Debug\net6.0\Multi-Dimentional Array.dll
+C:\Users\Coditas\Desktop\Multi-Dimentional Array\bin\Debug\net6.0\ref\Multi-Dimentional Array.dll
+C:\Users\Coditas\Desktop\Multi-Dimentional Array\bin\Debug\net6.0\Multi-Dimentional Array.pdb
+C:\Users\Coditas\Desktop\Multi-Dimentional Array\obj\Debug\net6.0\Multi-Dimentional Array.csproj.AssemblyReference.cache
+C:\Users\Coditas\Desktop\Multi-Dimentional Array\obj\Debug\net6.0\Multi-Dimentional Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Coditas\Desktop\Multi-Dimentional Array\obj\Debug\net6.0\Multi-Dimentional Array.AssemblyInfoInputs.cache
+C:\Users\Coditas\Desktop\Multi-Dimentional Array\obj\Debug\net6.0\Multi-Dimentional Array.AssemblyInfo.cs
+C:\Users\Coditas\Desktop\Multi-Dimentional Array\obj\Debug\net6.0\Multi-Dimentional Array.csproj.CoreCompileInputs.cache
+C:\Users\Coditas\Desktop\Multi-Dimentional Array\obj\Debug\net6.0\Multi-Dimentional Array.dll
+C:\Users\Coditas\Desktop\Multi-Dimentional Array\obj\Debug\net6.0\ref\Multi-Dimentional Array.dll
+C:\Users\Coditas\Desktop\Multi-Dimentional Array\obj\Debug\net6.0\Multi-Dimentional Array.pdb
+C:\Users\Coditas\Desktop\Multi-Dimentional Array\obj\Debug\net6.0\Multi-Dimentional Array.genruntimeconfig.cache

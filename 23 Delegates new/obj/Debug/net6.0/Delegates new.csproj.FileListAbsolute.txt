@@ -1,0 +1,30 @@
+C:\Users\Coditas\Desktop\Delegates new\bin\Debug\net6.0\Delegates new.exe
+C:\Users\Coditas\Desktop\Delegates new\bin\Debug\net6.0\Delegates new.deps.json
+C:\Users\Coditas\Desktop\Delegates new\bin\Debug\net6.0\Delegates new.runtimeconfig.json
+C:\Users\Coditas\Desktop\Delegates new\bin\Debug\net6.0\Delegates new.dll
+C:\Users\Coditas\Desktop\Delegates new\bin\Debug\net6.0\ref\Delegates new.dll
+C:\Users\Coditas\Desktop\Delegates new\bin\Debug\net6.0\Delegates new.pdb
+C:\Users\Coditas\Desktop\Delegates new\obj\Debug\net6.0\Delegates new.csproj.AssemblyReference.cache
+C:\Users\Coditas\Desktop\Delegates new\obj\Debug\net6.0\Delegates new.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Coditas\Desktop\Delegates new\obj\Debug\net6.0\Delegates new.AssemblyInfoInputs.cache
+C:\Users\Coditas\Desktop\Delegates new\obj\Debug\net6.0\Delegates new.AssemblyInfo.cs
+C:\Users\Coditas\Desktop\Delegates new\obj\Debug\net6.0\Delegates new.csproj.CoreCompileInputs.cache
+C:\Users\Coditas\Desktop\Delegates new\obj\Debug\net6.0\Delegates new.dll
+C:\Users\Coditas\Desktop\Delegates new\obj\Debug\net6.0\ref\Delegates new.dll
+C:\Users\Coditas\Desktop\Delegates new\obj\Debug\net6.0\Delegates new.pdb
+C:\Users\Coditas\Desktop\Delegates new\obj\Debug\net6.0\Delegates new.genruntimeconfig.cache
+C:\Users\Coditas\Desktop\C# All Code\Delegates new\obj\Debug\net6.0\Delegates new.csproj.AssemblyReference.cache
+C:\Users\Coditas\Desktop\C# All Code\Delegates new\obj\Debug\net6.0\Delegates new.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Coditas\Desktop\C# All Code\Delegates new\obj\Debug\net6.0\Delegates new.AssemblyInfoInputs.cache
+C:\Users\Coditas\Desktop\C# All Code\Delegates new\obj\Debug\net6.0\Delegates new.AssemblyInfo.cs
+C:\Users\Coditas\Desktop\C# All Code\Delegates new\obj\Debug\net6.0\Delegates new.csproj.CoreCompileInputs.cache
+C:\Users\Coditas\Desktop\C# All Code\Delegates new\obj\Debug\net6.0\Delegates new.dll
+C:\Users\Coditas\Desktop\C# All Code\Delegates new\obj\Debug\net6.0\ref\Delegates new.dll
+C:\Users\Coditas\Desktop\C# All Code\Delegates new\obj\Debug\net6.0\Delegates new.pdb
+C:\Users\Coditas\Desktop\C# All Code\Delegates new\bin\Debug\net6.0\Delegates new.exe
+C:\Users\Coditas\Desktop\C# All Code\Delegates new\bin\Debug\net6.0\Delegates new.deps.json
+C:\Users\Coditas\Desktop\C# All Code\Delegates new\bin\Debug\net6.0\Delegates new.runtimeconfig.json
+C:\Users\Coditas\Desktop\C# All Code\Delegates new\bin\Debug\net6.0\Delegates new.dll
+C:\Users\Coditas\Desktop\C# All Code\Delegates new\bin\Debug\net6.0\ref\Delegates new.dll
+C:\Users\Coditas\Desktop\C# All Code\Delegates new\bin\Debug\net6.0\Delegates new.pdb
+C:\Users\Coditas\Desktop\C# All Code\Delegates new\obj\Debug\net6.0\Delegates new.genruntimeconfig.cache

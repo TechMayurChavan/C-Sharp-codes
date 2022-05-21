@@ -1,0 +1,15 @@
+C:\Users\Coditas\Desktop\Multiple Interface\bin\Debug\net6.0\Multiple Interface.exe
+C:\Users\Coditas\Desktop\Multiple Interface\bin\Debug\net6.0\Multiple Interface.deps.json
+C:\Users\Coditas\Desktop\Multiple Interface\bin\Debug\net6.0\Multiple Interface.runtimeconfig.json
+C:\Users\Coditas\Desktop\Multiple Interface\bin\Debug\net6.0\Multiple Interface.dll
+C:\Users\Coditas\Desktop\Multiple Interface\bin\Debug\net6.0\ref\Multiple Interface.dll
+C:\Users\Coditas\Desktop\Multiple Interface\bin\Debug\net6.0\Multiple Interface.pdb
+C:\Users\Coditas\Desktop\Multiple Interface\obj\Debug\net6.0\Multiple Interface.csproj.AssemblyReference.cache
+C:\Users\Coditas\Desktop\Multiple Interface\obj\Debug\net6.0\Multiple Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Coditas\Desktop\Multiple Interface\obj\Debug\net6.0\Multiple Interface.AssemblyInfoInputs.cache
+C:\Users\Coditas\Desktop\Multiple Interface\obj\Debug\net6.0\Multiple Interface.AssemblyInfo.cs
+C:\Users\Coditas\Desktop\Multiple Interface\obj\Debug\net6.0\Multiple Interface.csproj.CoreCompileInputs.cache
+C:\Users\Coditas\Desktop\Multiple Interface\obj\Debug\net6.0\Multiple Interface.dll
+C:\Users\Coditas\Desktop\Multiple Interface\obj\Debug\net6.0\ref\Multiple Interface.dll
+C:\Users\Coditas\Desktop\Multiple Interface\obj\Debug\net6.0\Multiple Interface.pdb
+C:\Users\Coditas\Desktop\Multiple Interface\obj\Debug\net6.0\Multiple Interface.genruntimeconfig.cache

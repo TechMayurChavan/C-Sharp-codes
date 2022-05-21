@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Var and Dynamic Keyword/1.0.0": {
+        "runtime": {
+          "Var and Dynamic Keyword.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Var and Dynamic Keyword/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

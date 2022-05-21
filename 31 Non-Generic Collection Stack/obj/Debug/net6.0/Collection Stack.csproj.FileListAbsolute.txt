@@ -1,0 +1,45 @@
+C:\Users\Coditas\Desktop\Collection Stack\bin\Debug\net6.0\Collection Stack.exe
+C:\Users\Coditas\Desktop\Collection Stack\bin\Debug\net6.0\Collection Stack.deps.json
+C:\Users\Coditas\Desktop\Collection Stack\bin\Debug\net6.0\Collection Stack.runtimeconfig.json
+C:\Users\Coditas\Desktop\Collection Stack\bin\Debug\net6.0\Collection Stack.dll
+C:\Users\Coditas\Desktop\Collection Stack\bin\Debug\net6.0\ref\Collection Stack.dll
+C:\Users\Coditas\Desktop\Collection Stack\bin\Debug\net6.0\Collection Stack.pdb
+C:\Users\Coditas\Desktop\Collection Stack\obj\Debug\net6.0\Collection Stack.csproj.AssemblyReference.cache
+C:\Users\Coditas\Desktop\Collection Stack\obj\Debug\net6.0\Collection Stack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Coditas\Desktop\Collection Stack\obj\Debug\net6.0\Collection Stack.AssemblyInfoInputs.cache
+C:\Users\Coditas\Desktop\Collection Stack\obj\Debug\net6.0\Collection Stack.AssemblyInfo.cs
+C:\Users\Coditas\Desktop\Collection Stack\obj\Debug\net6.0\Collection Stack.csproj.CoreCompileInputs.cache
+C:\Users\Coditas\Desktop\Collection Stack\obj\Debug\net6.0\Collection Stack.dll
+C:\Users\Coditas\Desktop\Collection Stack\obj\Debug\net6.0\ref\Collection Stack.dll
+C:\Users\Coditas\Desktop\Collection Stack\obj\Debug\net6.0\Collection Stack.pdb
+C:\Users\Coditas\Desktop\Collection Stack\obj\Debug\net6.0\Collection Stack.genruntimeconfig.cache
+C:\Users\Coditas\Desktop\C# All Code\Collection Stack\bin\Debug\net6.0\Collection Stack.exe
+C:\Users\Coditas\Desktop\C# All Code\Collection Stack\bin\Debug\net6.0\Collection Stack.deps.json
+C:\Users\Coditas\Desktop\C# All Code\Collection Stack\bin\Debug\net6.0\Collection Stack.runtimeconfig.json
+C:\Users\Coditas\Desktop\C# All Code\Collection Stack\bin\Debug\net6.0\Collection Stack.dll
+C:\Users\Coditas\Desktop\C# All Code\Collection Stack\bin\Debug\net6.0\Collection Stack.pdb
+C:\Users\Coditas\Desktop\C# All Code\Collection Stack\obj\Debug\net6.0\Collection Stack.csproj.AssemblyReference.cache
+C:\Users\Coditas\Desktop\C# All Code\Collection Stack\obj\Debug\net6.0\Collection Stack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Coditas\Desktop\C# All Code\Collection Stack\obj\Debug\net6.0\Collection Stack.AssemblyInfoInputs.cache
+C:\Users\Coditas\Desktop\C# All Code\Collection Stack\obj\Debug\net6.0\Collection Stack.AssemblyInfo.cs
+C:\Users\Coditas\Desktop\C# All Code\Collection Stack\obj\Debug\net6.0\Collection Stack.csproj.CoreCompileInputs.cache
+C:\Users\Coditas\Desktop\C# All Code\Collection Stack\obj\Debug\net6.0\Collection Stack.dll
+C:\Users\Coditas\Desktop\C# All Code\Collection Stack\obj\Debug\net6.0\refint\Collection Stack.dll
+C:\Users\Coditas\Desktop\C# All Code\Collection Stack\obj\Debug\net6.0\Collection Stack.pdb
+C:\Users\Coditas\Desktop\C# All Code\Collection Stack\obj\Debug\net6.0\Collection Stack.genruntimeconfig.cache
+C:\Users\Coditas\Desktop\C# All Code\Collection Stack\obj\Debug\net6.0\ref\Collection Stack.dll
+C:\Users\Coditas\Desktop\C# All Code\28 Non-Generic Collection Stack\bin\Debug\net6.0\Collection Stack.exe
+C:\Users\Coditas\Desktop\C# All Code\28 Non-Generic Collection Stack\bin\Debug\net6.0\Collection Stack.deps.json
+C:\Users\Coditas\Desktop\C# All Code\28 Non-Generic Collection Stack\bin\Debug\net6.0\Collection Stack.runtimeconfig.json
+C:\Users\Coditas\Desktop\C# All Code\28 Non-Generic Collection Stack\bin\Debug\net6.0\Collection Stack.dll
+C:\Users\Coditas\Desktop\C# All Code\28 Non-Generic Collection Stack\bin\Debug\net6.0\Collection Stack.pdb
+C:\Users\Coditas\Desktop\C# All Code\28 Non-Generic Collection Stack\obj\Debug\net6.0\Collection Stack.csproj.AssemblyReference.cache
+C:\Users\Coditas\Desktop\C# All Code\28 Non-Generic Collection Stack\obj\Debug\net6.0\Collection Stack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Coditas\Desktop\C# All Code\28 Non-Generic Collection Stack\obj\Debug\net6.0\Collection Stack.AssemblyInfoInputs.cache
+C:\Users\Coditas\Desktop\C# All Code\28 Non-Generic Collection Stack\obj\Debug\net6.0\Collection Stack.AssemblyInfo.cs
+C:\Users\Coditas\Desktop\C# All Code\28 Non-Generic Collection Stack\obj\Debug\net6.0\Collection Stack.csproj.CoreCompileInputs.cache
+C:\Users\Coditas\Desktop\C# All Code\28 Non-Generic Collection Stack\obj\Debug\net6.0\Collection Stack.dll
+C:\Users\Coditas\Desktop\C# All Code\28 Non-Generic Collection Stack\obj\Debug\net6.0\refint\Collection Stack.dll
+C:\Users\Coditas\Desktop\C# All Code\28 Non-Generic Collection Stack\obj\Debug\net6.0\Collection Stack.pdb
+C:\Users\Coditas\Desktop\C# All Code\28 Non-Generic Collection Stack\obj\Debug\net6.0\Collection Stack.genruntimeconfig.cache
+C:\Users\Coditas\Desktop\C# All Code\28 Non-Generic Collection Stack\obj\Debug\net6.0\ref\Collection Stack.dll

@@ -1,0 +1,15 @@
+C:\Users\Coditas\Desktop\Collection Hashtable\bin\Debug\net6.0\Collection Hashtable.exe
+C:\Users\Coditas\Desktop\Collection Hashtable\bin\Debug\net6.0\Collection Hashtable.deps.json
+C:\Users\Coditas\Desktop\Collection Hashtable\bin\Debug\net6.0\Collection Hashtable.runtimeconfig.json
+C:\Users\Coditas\Desktop\Collection Hashtable\bin\Debug\net6.0\Collection Hashtable.dll
+C:\Users\Coditas\Desktop\Collection Hashtable\bin\Debug\net6.0\ref\Collection Hashtable.dll
+C:\Users\Coditas\Desktop\Collection Hashtable\bin\Debug\net6.0\Collection Hashtable.pdb
+C:\Users\Coditas\Desktop\Collection Hashtable\obj\Debug\net6.0\Collection Hashtable.csproj.AssemblyReference.cache
+C:\Users\Coditas\Desktop\Collection Hashtable\obj\Debug\net6.0\Collection Hashtable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Coditas\Desktop\Collection Hashtable\obj\Debug\net6.0\Collection Hashtable.AssemblyInfoInputs.cache
+C:\Users\Coditas\Desktop\Collection Hashtable\obj\Debug\net6.0\Collection Hashtable.AssemblyInfo.cs
+C:\Users\Coditas\Desktop\Collection Hashtable\obj\Debug\net6.0\Collection Hashtable.csproj.CoreCompileInputs.cache
+C:\Users\Coditas\Desktop\Collection Hashtable\obj\Debug\net6.0\Collection Hashtable.dll
+C:\Users\Coditas\Desktop\Collection Hashtable\obj\Debug\net6.0\ref\Collection Hashtable.dll
+C:\Users\Coditas\Desktop\Collection Hashtable\obj\Debug\net6.0\Collection Hashtable.pdb
+C:\Users\Coditas\Desktop\Collection Hashtable\obj\Debug\net6.0\Collection Hashtable.genruntimeconfig.cache

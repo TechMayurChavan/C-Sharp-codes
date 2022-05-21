@@ -1,0 +1,45 @@
+C:\Users\Coditas\Desktop\Null point operator\bin\Debug\net6.0\Null point operator.exe
+C:\Users\Coditas\Desktop\Null point operator\bin\Debug\net6.0\Null point operator.deps.json
+C:\Users\Coditas\Desktop\Null point operator\bin\Debug\net6.0\Null point operator.runtimeconfig.json
+C:\Users\Coditas\Desktop\Null point operator\bin\Debug\net6.0\Null point operator.dll
+C:\Users\Coditas\Desktop\Null point operator\bin\Debug\net6.0\ref\Null point operator.dll
+C:\Users\Coditas\Desktop\Null point operator\bin\Debug\net6.0\Null point operator.pdb
+C:\Users\Coditas\Desktop\Null point operator\obj\Debug\net6.0\Null point operator.csproj.AssemblyReference.cache
+C:\Users\Coditas\Desktop\Null point operator\obj\Debug\net6.0\Null point operator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Coditas\Desktop\Null point operator\obj\Debug\net6.0\Null point operator.AssemblyInfoInputs.cache
+C:\Users\Coditas\Desktop\Null point operator\obj\Debug\net6.0\Null point operator.AssemblyInfo.cs
+C:\Users\Coditas\Desktop\Null point operator\obj\Debug\net6.0\Null point operator.csproj.CoreCompileInputs.cache
+C:\Users\Coditas\Desktop\Null point operator\obj\Debug\net6.0\Null point operator.dll
+C:\Users\Coditas\Desktop\Null point operator\obj\Debug\net6.0\ref\Null point operator.dll
+C:\Users\Coditas\Desktop\Null point operator\obj\Debug\net6.0\Null point operator.pdb
+C:\Users\Coditas\Desktop\Null point operator\obj\Debug\net6.0\Null point operator.genruntimeconfig.cache
+C:\Users\Coditas\Desktop\C# All Code\Null point operator\bin\Debug\net6.0\Null point operator.exe
+C:\Users\Coditas\Desktop\C# All Code\Null point operator\bin\Debug\net6.0\Null point operator.deps.json
+C:\Users\Coditas\Desktop\C# All Code\Null point operator\bin\Debug\net6.0\Null point operator.runtimeconfig.json
+C:\Users\Coditas\Desktop\C# All Code\Null point operator\bin\Debug\net6.0\Null point operator.dll
+C:\Users\Coditas\Desktop\C# All Code\Null point operator\bin\Debug\net6.0\ref\Null point operator.dll
+C:\Users\Coditas\Desktop\C# All Code\Null point operator\bin\Debug\net6.0\Null point operator.pdb
+C:\Users\Coditas\Desktop\C# All Code\Null point operator\obj\Debug\net6.0\Null point operator.csproj.AssemblyReference.cache
+C:\Users\Coditas\Desktop\C# All Code\Null point operator\obj\Debug\net6.0\Null point operator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Coditas\Desktop\C# All Code\Null point operator\obj\Debug\net6.0\Null point operator.AssemblyInfoInputs.cache
+C:\Users\Coditas\Desktop\C# All Code\Null point operator\obj\Debug\net6.0\Null point operator.AssemblyInfo.cs
+C:\Users\Coditas\Desktop\C# All Code\Null point operator\obj\Debug\net6.0\Null point operator.csproj.CoreCompileInputs.cache
+C:\Users\Coditas\Desktop\C# All Code\Null point operator\obj\Debug\net6.0\Null point operator.dll
+C:\Users\Coditas\Desktop\C# All Code\Null point operator\obj\Debug\net6.0\ref\Null point operator.dll
+C:\Users\Coditas\Desktop\C# All Code\Null point operator\obj\Debug\net6.0\Null point operator.pdb
+C:\Users\Coditas\Desktop\C# All Code\Null point operator\obj\Debug\net6.0\Null point operator.genruntimeconfig.cache
+C:\Users\Coditas\Desktop\C# All Code\1Null point operator\bin\Debug\net6.0\Null point operator.exe
+C:\Users\Coditas\Desktop\C# All Code\1Null point operator\bin\Debug\net6.0\Null point operator.deps.json
+C:\Users\Coditas\Desktop\C# All Code\1Null point operator\bin\Debug\net6.0\Null point operator.runtimeconfig.json
+C:\Users\Coditas\Desktop\C# All Code\1Null point operator\bin\Debug\net6.0\Null point operator.dll
+C:\Users\Coditas\Desktop\C# All Code\1Null point operator\bin\Debug\net6.0\Null point operator.pdb
+C:\Users\Coditas\Desktop\C# All Code\1Null point operator\obj\Debug\net6.0\Null point operator.csproj.AssemblyReference.cache
+C:\Users\Coditas\Desktop\C# All Code\1Null point operator\obj\Debug\net6.0\Null point operator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Coditas\Desktop\C# All Code\1Null point operator\obj\Debug\net6.0\Null point operator.AssemblyInfoInputs.cache
+C:\Users\Coditas\Desktop\C# All Code\1Null point operator\obj\Debug\net6.0\Null point operator.AssemblyInfo.cs
+C:\Users\Coditas\Desktop\C# All Code\1Null point operator\obj\Debug\net6.0\Null point operator.csproj.CoreCompileInputs.cache
+C:\Users\Coditas\Desktop\C# All Code\1Null point operator\obj\Debug\net6.0\Null point operator.dll
+C:\Users\Coditas\Desktop\C# All Code\1Null point operator\obj\Debug\net6.0\ref\Null point operator.dll
+C:\Users\Coditas\Desktop\C# All Code\1Null point operator\obj\Debug\net6.0\Null point operator.pdb
+C:\Users\Coditas\Desktop\C# All Code\1Null point operator\obj\Debug\net6.0\Null point operator.genruntimeconfig.cache
+C:\Users\Coditas\Desktop\C# All Code\1Null point operator\obj\Debug\net6.0\refint\Null point operator.dll

@@ -1,0 +1,15 @@
+C:\Users\Coditas\Desktop\PassByValue, PassByRef, PassByOut\bin\Debug\net6.0\PassByValue, PassByRef, PassByOut.exe
+C:\Users\Coditas\Desktop\PassByValue, PassByRef, PassByOut\bin\Debug\net6.0\PassByValue, PassByRef, PassByOut.deps.json
+C:\Users\Coditas\Desktop\PassByValue, PassByRef, PassByOut\bin\Debug\net6.0\PassByValue, PassByRef, PassByOut.runtimeconfig.json
+C:\Users\Coditas\Desktop\PassByValue, PassByRef, PassByOut\bin\Debug\net6.0\PassByValue, PassByRef, PassByOut.dll
+C:\Users\Coditas\Desktop\PassByValue, PassByRef, PassByOut\bin\Debug\net6.0\ref\PassByValue, PassByRef, PassByOut.dll
+C:\Users\Coditas\Desktop\PassByValue, PassByRef, PassByOut\bin\Debug\net6.0\PassByValue, PassByRef, PassByOut.pdb
+C:\Users\Coditas\Desktop\PassByValue, PassByRef, PassByOut\obj\Debug\net6.0\PassByValue, PassByRef, PassByOut.csproj.AssemblyReference.cache
+C:\Users\Coditas\Desktop\PassByValue, PassByRef, PassByOut\obj\Debug\net6.0\PassByValue, PassByRef, PassByOut.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Coditas\Desktop\PassByValue, PassByRef, PassByOut\obj\Debug\net6.0\PassByValue, PassByRef, PassByOut.AssemblyInfoInputs.cache
+C:\Users\Coditas\Desktop\PassByValue, PassByRef, PassByOut\obj\Debug\net6.0\PassByValue, PassByRef, PassByOut.AssemblyInfo.cs
+C:\Users\Coditas\Desktop\PassByValue, PassByRef, PassByOut\obj\Debug\net6.0\PassByValue, PassByRef, PassByOut.csproj.CoreCompileInputs.cache
+C:\Users\Coditas\Desktop\PassByValue, PassByRef, PassByOut\obj\Debug\net6.0\PassByValue, PassByRef, PassByOut.dll
+C:\Users\Coditas\Desktop\PassByValue, PassByRef, PassByOut\obj\Debug\net6.0\ref\PassByValue, PassByRef, PassByOut.dll
+C:\Users\Coditas\Desktop\PassByValue, PassByRef, PassByOut\obj\Debug\net6.0\PassByValue, PassByRef, PassByOut.pdb
+C:\Users\Coditas\Desktop\PassByValue, PassByRef, PassByOut\obj\Debug\net6.0\PassByValue, PassByRef, PassByOut.genruntimeconfig.cache

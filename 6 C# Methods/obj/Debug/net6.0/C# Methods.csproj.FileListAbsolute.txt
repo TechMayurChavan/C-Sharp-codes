@@ -1,0 +1,30 @@
+C:\Users\Coditas\Desktop\C# Methods\obj\Debug\net6.0\C# Methods.csproj.AssemblyReference.cache
+C:\Users\Coditas\Desktop\C# Methods\obj\Debug\net6.0\C# Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Coditas\Desktop\C# Methods\obj\Debug\net6.0\C# Methods.AssemblyInfoInputs.cache
+C:\Users\Coditas\Desktop\C# Methods\obj\Debug\net6.0\C# Methods.AssemblyInfo.cs
+C:\Users\Coditas\Desktop\C# Methods\obj\Debug\net6.0\C# Methods.csproj.CoreCompileInputs.cache
+C:\Users\Coditas\Desktop\C# Methods\bin\Debug\net6.0\C# Methods.exe
+C:\Users\Coditas\Desktop\C# Methods\bin\Debug\net6.0\C# Methods.deps.json
+C:\Users\Coditas\Desktop\C# Methods\bin\Debug\net6.0\C# Methods.runtimeconfig.json
+C:\Users\Coditas\Desktop\C# Methods\bin\Debug\net6.0\C# Methods.dll
+C:\Users\Coditas\Desktop\C# Methods\bin\Debug\net6.0\ref\C# Methods.dll
+C:\Users\Coditas\Desktop\C# Methods\bin\Debug\net6.0\C# Methods.pdb
+C:\Users\Coditas\Desktop\C# Methods\obj\Debug\net6.0\C# Methods.dll
+C:\Users\Coditas\Desktop\C# Methods\obj\Debug\net6.0\ref\C# Methods.dll
+C:\Users\Coditas\Desktop\C# Methods\obj\Debug\net6.0\C# Methods.pdb
+C:\Users\Coditas\Desktop\C# Methods\obj\Debug\net6.0\C# Methods.genruntimeconfig.cache
+C:\Users\Coditas\Desktop\C# All Code\C# Methods\bin\Debug\net6.0\C# Methods.exe
+C:\Users\Coditas\Desktop\C# All Code\C# Methods\bin\Debug\net6.0\C# Methods.deps.json
+C:\Users\Coditas\Desktop\C# All Code\C# Methods\bin\Debug\net6.0\C# Methods.runtimeconfig.json
+C:\Users\Coditas\Desktop\C# All Code\C# Methods\bin\Debug\net6.0\C# Methods.dll
+C:\Users\Coditas\Desktop\C# All Code\C# Methods\bin\Debug\net6.0\ref\C# Methods.dll
+C:\Users\Coditas\Desktop\C# All Code\C# Methods\bin\Debug\net6.0\C# Methods.pdb
+C:\Users\Coditas\Desktop\C# All Code\C# Methods\obj\Debug\net6.0\C# Methods.csproj.AssemblyReference.cache
+C:\Users\Coditas\Desktop\C# All Code\C# Methods\obj\Debug\net6.0\C# Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Coditas\Desktop\C# All Code\C# Methods\obj\Debug\net6.0\C# Methods.AssemblyInfoInputs.cache
+C:\Users\Coditas\Desktop\C# All Code\C# Methods\obj\Debug\net6.0\C# Methods.AssemblyInfo.cs
+C:\Users\Coditas\Desktop\C# All Code\C# Methods\obj\Debug\net6.0\C# Methods.csproj.CoreCompileInputs.cache
+C:\Users\Coditas\Desktop\C# All Code\C# Methods\obj\Debug\net6.0\C# Methods.dll
+C:\Users\Coditas\Desktop\C# All Code\C# Methods\obj\Debug\net6.0\ref\C# Methods.dll
+C:\Users\Coditas\Desktop\C# All Code\C# Methods\obj\Debug\net6.0\C# Methods.pdb
+C:\Users\Coditas\Desktop\C# All Code\C# Methods\obj\Debug\net6.0\C# Methods.genruntimeconfig.cache

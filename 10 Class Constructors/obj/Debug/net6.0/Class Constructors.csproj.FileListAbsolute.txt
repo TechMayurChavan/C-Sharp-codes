@@ -1,0 +1,15 @@
+C:\Users\Coditas\Desktop\Class Constructors\bin\Debug\net6.0\Class Constructors.exe
+C:\Users\Coditas\Desktop\Class Constructors\bin\Debug\net6.0\Class Constructors.deps.json
+C:\Users\Coditas\Desktop\Class Constructors\bin\Debug\net6.0\Class Constructors.runtimeconfig.json
+C:\Users\Coditas\Desktop\Class Constructors\bin\Debug\net6.0\Class Constructors.dll
+C:\Users\Coditas\Desktop\Class Constructors\bin\Debug\net6.0\ref\Class Constructors.dll
+C:\Users\Coditas\Desktop\Class Constructors\bin\Debug\net6.0\Class Constructors.pdb
+C:\Users\Coditas\Desktop\Class Constructors\obj\Debug\net6.0\Class Constructors.csproj.AssemblyReference.cache
+C:\Users\Coditas\Desktop\Class Constructors\obj\Debug\net6.0\Class Constructors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Coditas\Desktop\Class Constructors\obj\Debug\net6.0\Class Constructors.AssemblyInfoInputs.cache
+C:\Users\Coditas\Desktop\Class Constructors\obj\Debug\net6.0\Class Constructors.AssemblyInfo.cs
+C:\Users\Coditas\Desktop\Class Constructors\obj\Debug\net6.0\Class Constructors.csproj.CoreCompileInputs.cache
+C:\Users\Coditas\Desktop\Class Constructors\obj\Debug\net6.0\Class Constructors.dll
+C:\Users\Coditas\Desktop\Class Constructors\obj\Debug\net6.0\ref\Class Constructors.dll
+C:\Users\Coditas\Desktop\Class Constructors\obj\Debug\net6.0\Class Constructors.pdb
+C:\Users\Coditas\Desktop\Class Constructors\obj\Debug\net6.0\Class Constructors.genruntimeconfig.cache

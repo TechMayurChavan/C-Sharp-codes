@@ -1,0 +1,15 @@
+C:\Users\Coditas\Desktop\While Loop and Do While Loop\bin\Debug\net6.0\While Loop and Do While Loop.exe
+C:\Users\Coditas\Desktop\While Loop and Do While Loop\bin\Debug\net6.0\While Loop and Do While Loop.deps.json
+C:\Users\Coditas\Desktop\While Loop and Do While Loop\bin\Debug\net6.0\While Loop and Do While Loop.runtimeconfig.json
+C:\Users\Coditas\Desktop\While Loop and Do While Loop\bin\Debug\net6.0\While Loop and Do While Loop.dll
+C:\Users\Coditas\Desktop\While Loop and Do While Loop\bin\Debug\net6.0\ref\While Loop and Do While Loop.dll
+C:\Users\Coditas\Desktop\While Loop and Do While Loop\bin\Debug\net6.0\While Loop and Do While Loop.pdb
+C:\Users\Coditas\Desktop\While Loop and Do While Loop\obj\Debug\net6.0\While Loop and Do While Loop.csproj.AssemblyReference.cache
+C:\Users\Coditas\Desktop\While Loop and Do While Loop\obj\Debug\net6.0\While Loop and Do While Loop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Coditas\Desktop\While Loop and Do While Loop\obj\Debug\net6.0\While Loop and Do While Loop.AssemblyInfoInputs.cache
+C:\Users\Coditas\Desktop\While Loop and Do While Loop\obj\Debug\net6.0\While Loop and Do While Loop.AssemblyInfo.cs
+C:\Users\Coditas\Desktop\While Loop and Do While Loop\obj\Debug\net6.0\While Loop and Do While Loop.csproj.CoreCompileInputs.cache
+C:\Users\Coditas\Desktop\While Loop and Do While Loop\obj\Debug\net6.0\While Loop and Do While Loop.dll
+C:\Users\Coditas\Desktop\While Loop and Do While Loop\obj\Debug\net6.0\ref\While Loop and Do While Loop.dll
+C:\Users\Coditas\Desktop\While Loop and Do While Loop\obj\Debug\net6.0\While Loop and Do While Loop.pdb
+C:\Users\Coditas\Desktop\While Loop and Do While Loop\obj\Debug\net6.0\While Loop and Do While Loop.genruntimeconfig.cache
